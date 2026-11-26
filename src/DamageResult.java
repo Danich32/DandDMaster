@@ -1,0 +1,1 @@
+record DamageResult(int absorbed, int healthLost, boolean armorBroken, boolean died) {}
